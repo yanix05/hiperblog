@@ -6,3 +6,5 @@ Yanira Flores tiene 36 años
 Hoy hablaremos de sus historia
 
 En persona es muy alta
+
+Hoy esta aprendiendo a programar Java Script
